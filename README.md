@@ -1,0 +1,2 @@
+# QGA
+for QG Studio
