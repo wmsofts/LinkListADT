@@ -1,4 +1,8 @@
-# QGA
+# LinklistADT
+
+单链表、双向链表ADT
+
+Original repository name:QGA
 
 for QG Studio
 
